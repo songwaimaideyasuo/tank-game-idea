@@ -1,0 +1,4 @@
+#total game level count
+levelCount=10
+#game current level
+curLevel=3
